@@ -5,6 +5,24 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampta-jeswani-8427593a9) 
 
+## 📬 Contact
+- 📧 Email: jeswanisampta@gmail.com
+- 🔗 LinkedIn: [Sampta Jeswani](https://www.linkedin.com/in/sampta-jeswani-8427593a9)
+
+## 🚀 Featured Projects
+
+### 🏦 [Bank Churn Prediction](https://github.com/bscs2412304-sampta/Bank-Churn-Prediction)
+A machine learning project analyzing customer churn risk using transaction and credit data, with a Streamlit app for interactive predictions.
+**Tech:** Python, Pandas, Scikit-learn, SQLite, Streamlit
+
+### 🔐 [Cyberattack Analysis](https://github.com/bscs2412304-sampta/Cyberattack-Analysis)
+A Power BI dashboard visualizing cyberattack patterns and threat severity trends from security incident data.
+**Tech:** Power BI
+
+### 🌐 [Network Traffic Visualization](https://github.com/bscs2412304-sampta/Network-Traffic-Visualization)
+A dashboard analyzing network traffic data to detect anomalies, protocol distribution, and potential threats.
+**Tech:** Power BI
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
